@@ -1,0 +1,28 @@
+[
+  {
+    "key": "demo",
+    "nombre": "Demo Provider",
+    "tipo": "anime",
+    "descripcion": "Provider de ejemplo para testing",
+    "file": "https://tudominio.com/modules/demo-debug.apk",
+    "url": "https://ejemplo.com",
+    "icono": "https://tudominio.com/icons/demo.png",
+    "creador": "Tu Nombre",
+    "version": "1.0.0",
+    "launcher": "com.linarez.nexusfilm.providers.demo.DemoProvider",
+    "status": "ACTIVE"
+  },
+  {
+    "key": "jkanime",
+    "nombre": "JKAnime",
+    "tipo": "anime",
+    "descripcion": "Proveedor para jkanime.net - Anime en español",
+    "file": "https://tudominio.com/modules/jkanime-debug.apk",
+    "url": "https://jkanime.net",
+    "icono": "https://tudominio.com/icons/jkanime.png",
+    "creador": "Tu Nombre",
+    "version": "1.0.0",
+    "launcher": "com.linarez.nexusfilm.providers.jkanime.JKAnimeProvider",
+    "status": "ACTIVE"
+  }
+]
